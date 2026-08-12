@@ -10,7 +10,7 @@ a replay window.
 | | |
 |---|---|
 | [INVNCIBLE](https://apps.apple.com/us/app/invncible/id6758371400) | Gym membership platform on the App Store. A member app, a staff scanner, and 25 Deno edge functions serving 500+ registered members. [invncible.com](https://invncible.com) |
-| [PICKLE](https://apps.apple.com/us/app/pickle-nutrition-tracker/id6787516850) | Calorie and macro tracker on the App Store. 125 unit tests, no third-party dependencies. |
+| [PICKLE](https://apps.apple.com/us/app/pickle-nutrition-tracker/id6787516850) | Calorie and macro tracker on the App Store. 125 unit tests, no third-party dependencies. [Code](https://github.com/advegaf/pickle) |
 | [Fresh Houston](https://freshoustonmeals.com) | Meal-delivery platform I built and still operate. 890+ payments and $24K+ processed since March 2026. |
 | [Vita](https://github.com/advegaf/vita) and [Minus](https://github.com/advegaf/minus) | Two iOS apps on TestFlight, code public. 323 and 108 unit tests, no third-party dependencies in either. |
 
