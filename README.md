@@ -14,4 +14,16 @@ a replay window.
 | [Fresh Houston](https://freshoustonmeals.com) | Meal-delivery platform I built and still operate. 890+ payments and $24K+ processed since March 2026. |
 | [Vita](https://github.com/advegaf/vita) and [Minus](https://github.com/advegaf/minus) | Two iOS apps on TestFlight, code public. 323 and 108 unit tests, no third-party dependencies in either. |
 
+### Lately
+
+<!-- activity:start -->
+| | | |
+|---|---|---|
+| [pickle](https://github.com/advegaf/pickle) | Swift | updated today |
+| [stamped](https://github.com/advegaf/stamped) | TypeScript | updated today |
+| [minus](https://github.com/advegaf/minus) | Swift | updated today |
+| [vita](https://github.com/advegaf/vita) | Swift | updated today |
+| [claude-skills](https://github.com/advegaf/claude-skills) | TypeScript | updated 17 days ago |
+<!-- activity:end -->
+
 [advegaf.com](https://advegaf.com) · advegaf@tamu.edu
