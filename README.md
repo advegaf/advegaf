@@ -19,11 +19,11 @@ a replay window.
 <!-- activity:start -->
 | | | |
 |---|---|---|
-| [pickle](https://github.com/advegaf/pickle) | Swift | updated 5 days ago |
-| [stamped](https://github.com/advegaf/stamped) | TypeScript | updated 5 days ago |
-| [minus](https://github.com/advegaf/minus) | Swift | updated 5 days ago |
-| [vita](https://github.com/advegaf/vita) | Swift | updated 5 days ago |
-| [claude-skills](https://github.com/advegaf/claude-skills) | TypeScript | updated 22 days ago |
+| [apply-agent](https://github.com/advegaf/apply-agent) | Shell | updated today |
+| [pickle](https://github.com/advegaf/pickle) | Swift | updated 6 days ago |
+| [stamped](https://github.com/advegaf/stamped) | TypeScript | updated 6 days ago |
+| [minus](https://github.com/advegaf/minus) | Swift | updated 6 days ago |
+| [vita](https://github.com/advegaf/vita) | Swift | updated 6 days ago |
 <!-- activity:end -->
 
 [advegaf.com](https://advegaf.com) · advegaf@tamu.edu
