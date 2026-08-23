@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 USER = "advegaf"
 START = "<!-- activity:start -->"
 END = "<!-- activity:end -->"
-SKIP = {USER, "vita-site"}  # profile repo itself, and a supporting site
+SKIP = {USER, "vita-site", "apply-agent"}  # profile repo, a supporting site, and one kept off the card
 ROWS = 5
 
 README = pathlib.Path(__file__).resolve().parent.parent / "README.md"
