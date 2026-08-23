@@ -21,9 +21,9 @@ a replay window.
 |---|---|---|
 | [marker](https://github.com/advegaf/marker) | Swift | updated today |
 | [which-skills](https://github.com/advegaf/which-skills) | Python | updated today |
-| [pickle](https://github.com/advegaf/pickle) | Swift | updated 10 days ago |
-| [stamped](https://github.com/advegaf/stamped) | TypeScript | updated 10 days ago |
-| [minus](https://github.com/advegaf/minus) | Swift | updated 10 days ago |
+| [pickle](https://github.com/advegaf/pickle) | Swift | updated 11 days ago |
+| [stamped](https://github.com/advegaf/stamped) | TypeScript | updated 11 days ago |
+| [minus](https://github.com/advegaf/minus) | Swift | updated 11 days ago |
 <!-- activity:end -->
 
 [advegaf.com](https://advegaf.com) · advegaf@tamu.edu
