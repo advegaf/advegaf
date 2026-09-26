@@ -26,11 +26,11 @@ security code I write or check line by line myself.
 <!-- activity:start -->
 | | | |
 |---|---|---|
-| [dialed-in](https://github.com/advegaf/dialed-in) | Swift | updated today |
-| [wave](https://github.com/advegaf/wave) | Swift | `v0.7.3` updated today |
-| [vita](https://github.com/advegaf/vita) | Swift | updated today |
-| [selfcontrol-mastered](https://github.com/advegaf/selfcontrol-mastered) | Objective-C | `v1.0.2` updated today |
-| [pluck](https://github.com/advegaf/pluck) | Swift | `v0.1.0` updated today |
+| [dialed-in](https://github.com/advegaf/dialed-in) | Swift | updated yesterday |
+| [wave](https://github.com/advegaf/wave) | Swift | `v0.7.3` updated yesterday |
+| [vita](https://github.com/advegaf/vita) | Swift | updated yesterday |
+| [selfcontrol-mastered](https://github.com/advegaf/selfcontrol-mastered) | Objective-C | `v1.0.2` updated yesterday |
+| [pluck](https://github.com/advegaf/pluck) | Swift | `v0.1.0` updated yesterday |
 <!-- activity:end -->
 
 [advegaf.com](https://advegaf.com) · advegaf@tamu.edu
