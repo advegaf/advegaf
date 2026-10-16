@@ -26,11 +26,11 @@ security code I write or check line by line myself.
 <!-- activity:start -->
 | | | |
 |---|---|---|
-| [neetcode-submissions](https://github.com/advegaf/neetcode-submissions) | Python | updated today |
-| [dialed-in](https://github.com/advegaf/dialed-in) | Swift | updated 20 days ago |
-| [wave](https://github.com/advegaf/wave) | Swift | `v0.7.3` updated 20 days ago |
-| [vita](https://github.com/advegaf/vita) | Swift | updated 20 days ago |
-| [selfcontrol-mastered](https://github.com/advegaf/selfcontrol-mastered) | Objective-C | `v1.0.2` updated 20 days ago |
+| [neetcode-submissions](https://github.com/advegaf/neetcode-submissions) | Python | updated yesterday |
+| [dialed-in](https://github.com/advegaf/dialed-in) | Swift | updated 21 days ago |
+| [wave](https://github.com/advegaf/wave) | Swift | `v0.7.3` updated 21 days ago |
+| [vita](https://github.com/advegaf/vita) | Swift | updated 21 days ago |
+| [selfcontrol-mastered](https://github.com/advegaf/selfcontrol-mastered) | Objective-C | `v1.0.2` updated 21 days ago |
 <!-- activity:end -->
 
 [advegaf.com](https://advegaf.com) · advegaf@tamu.edu
