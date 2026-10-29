@@ -26,8 +26,8 @@ security code I write or check line by line myself.
 <!-- activity:start -->
 | | | |
 |---|---|---|
-| [kinn](https://github.com/advegaf/kinn) | Swift | updated 2 days ago |
-| [neetcode-submissions](https://github.com/advegaf/neetcode-submissions) | Python | updated 13 days ago |
+| [kinn](https://github.com/advegaf/kinn) | Swift | updated 3 days ago |
+| [neetcode-submissions](https://github.com/advegaf/neetcode-submissions) | Python | updated 14 days ago |
 | [dialed-in](https://github.com/advegaf/dialed-in) | Swift | updated 1 month ago |
 | [wave](https://github.com/advegaf/wave) | Swift | `v0.7.3` updated 1 month ago |
 | [vita](https://github.com/advegaf/vita) | Swift | updated 1 month ago |
