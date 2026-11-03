@@ -26,7 +26,7 @@ security code I write or check line by line myself.
 <!-- activity:start -->
 | | | |
 |---|---|---|
-| [neetcode-submissions](https://github.com/advegaf/neetcode-submissions) | Python | updated yesterday |
+| [neetcode-submissions](https://github.com/advegaf/neetcode-submissions) | Python | updated 2 days ago |
 | [kinn](https://github.com/advegaf/kinn) | Swift | updated 8 days ago |
 | [dialed-in](https://github.com/advegaf/dialed-in) | Swift | updated 1 month ago |
 | [wave](https://github.com/advegaf/wave) | Swift | `v0.7.3` updated 1 month ago |
